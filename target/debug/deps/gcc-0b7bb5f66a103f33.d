@@ -1,0 +1,12 @@
+G:\BlockChain\program\rust_bitcoin\target\debug\deps\libgcc-0b7bb5f66a103f33.rmeta: C:\Users\PC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcc-0.3.55\src\lib.rs C:\Users\PC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcc-0.3.55\src\registry.rs C:\Users\PC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcc-0.3.55\src\winapi.rs C:\Users\PC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcc-0.3.55\src\com.rs C:\Users\PC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcc-0.3.55\src\setup_config.rs C:\Users\PC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcc-0.3.55\src\windows_registry.rs
+
+G:\BlockChain\program\rust_bitcoin\target\debug\deps\libgcc-0b7bb5f66a103f33.rlib: C:\Users\PC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcc-0.3.55\src\lib.rs C:\Users\PC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcc-0.3.55\src\registry.rs C:\Users\PC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcc-0.3.55\src\winapi.rs C:\Users\PC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcc-0.3.55\src\com.rs C:\Users\PC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcc-0.3.55\src\setup_config.rs C:\Users\PC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcc-0.3.55\src\windows_registry.rs
+
+G:\BlockChain\program\rust_bitcoin\target\debug\deps\gcc-0b7bb5f66a103f33.d: C:\Users\PC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcc-0.3.55\src\lib.rs C:\Users\PC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcc-0.3.55\src\registry.rs C:\Users\PC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcc-0.3.55\src\winapi.rs C:\Users\PC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcc-0.3.55\src\com.rs C:\Users\PC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcc-0.3.55\src\setup_config.rs C:\Users\PC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcc-0.3.55\src\windows_registry.rs
+
+C:\Users\PC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcc-0.3.55\src\lib.rs:
+C:\Users\PC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcc-0.3.55\src\registry.rs:
+C:\Users\PC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcc-0.3.55\src\winapi.rs:
+C:\Users\PC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcc-0.3.55\src\com.rs:
+C:\Users\PC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcc-0.3.55\src\setup_config.rs:
+C:\Users\PC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcc-0.3.55\src\windows_registry.rs:
